@@ -7,6 +7,9 @@ With a given hex-color provides 20 shadows of the color in a range from #000 to 
 ## Features
 * Clickable saving to the clipboard
 
-
+## Stack
+* React
+* Hooks
+* values.js
 
 [deployed]: https://thirsty-goldberg-945abe.netlify.app/
